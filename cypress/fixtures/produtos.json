@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProdutos": "Josie Yoga Jacket",
+        "tamanho": "XL",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+
+
+
+    {
+        "nomeProdutos": "Stellar Solar Jacket",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 1
+    },
+
+
+
+    {
+        "nomeProdutos": "Circe Hooded Ice Fleece",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 1
+    }
+]

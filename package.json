@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run --browser chrome",
+    "cy:dash" : "npx cypress run --record --key 079431a3-2cc8-42e5-b77f-2e898e38463d"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.6.3"
+    "cypress": "^13.6.6"
   },
   "dependencies": {
     "faker": "^5.5.3"
